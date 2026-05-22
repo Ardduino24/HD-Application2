@@ -1,4 +1,4 @@
--- Written by K_ingtylerYT (Roblox) imardduino24(Discord)
+-- Written by K_ingtylerYT (Roblox) imardduino24 (Discord)
 local Players = game:GetService("Players") -- We'll need the Players service for most of the stuff involving other players
 local DataStoreService = game:GetService("DataStoreService") -- Lets go ahead and grab the DataStoreService so we can interact with the shop's datastore(s)
 local ReplicatedStorage = game:GetService("ReplicatedStorage") -- We'll need ReplicatedStorage for communication with the client
